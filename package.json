@@ -4,5 +4,11 @@
   "description": "Design Tokens, Pulse",
   "main": "index.js",
   "author": "Pulse",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^2.10.2"
+  }
 }

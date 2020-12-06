@@ -1,0 +1,38 @@
+{
+    "source": ["properties/**/*.json"],
+    "platforms": {
+        "scss": {
+            "transformGroup": "scss",
+            "prefix": "sd",
+            "buildPath": "build/scss/",
+            "files": [{
+                "destination": "_variables.scss",
+                "format": "scss/variables"
+            }]
+        },
+        "css": {
+            "transformGroup": "css",
+            "buildPath": "build/css/",
+            "files": [{
+                "destination": "_variables.css",
+                "format": "css/variables"
+            }]
+        },
+        "js": {
+            "transformGroup": "js",
+            "buildPath": "build/js/",
+            "files": [{
+                "destination": "_variables.js",
+                "format": "javascript/es6"
+            }]
+        },
+        "json": {
+            "transformGroup": "web",
+            "buildPath": "build/json/",
+            "files": [{
+                "destination": "_variables.json",
+                "format": "json/flat"
+            }]
+        }
+    }
+}
