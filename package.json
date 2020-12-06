@@ -8,6 +8,10 @@
   "scripts": {
     "build": "style-dictionary build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoamil/design-tokens.git"
+  },
   "devDependencies": {
     "style-dictionary": "^2.10.2"
   }
