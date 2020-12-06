@@ -25,6 +25,30 @@
                 "format": "javascript/es6"
             }]
         },
+        "js-module": {
+            "transformGroup": "js",
+            "buildPath": "build/js/",
+            "files": [{
+                "destination": "_variablesModule.js",
+                "format": "javascript/module"
+            }]
+        },
+        "js-obj": {
+            "transformGroup": "js",
+            "buildPath": "build/js/",
+            "files": [{
+                "destination": "_variablesObj.js",
+                "format": "javascript/object"
+            }]
+        },
+        "js-umd": {
+            "transformGroup": "js",
+            "buildPath": "build/js/",
+            "files": [{
+                "destination": "_variablesUmd.js",
+                "format": "javascript/umd"
+            }]
+        },
         "json": {
             "transformGroup": "web",
             "buildPath": "build/json/",
