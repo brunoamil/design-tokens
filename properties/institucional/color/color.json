@@ -1,0 +1,72 @@
+{
+    "color": {
+        "brand": {
+            "primary": {
+                "darkest": { "value": "#003351"},
+                "dark": { "value": "#004980"},
+                "base": { "value": "#0066B2"},
+                "light": { "value": "#E5F4FF"},
+                "lighttest": { "value": "#E5F4FF"}
+            }
+        },
+        "neutral": {
+            "darkest": { "value": "#2D3338"},
+            "dark": { "value": "#5D6A75"},
+            "base": { "value": "#B4BBC2"},
+            "light": { "value": "#DFE2E5"},
+            "lighttest": { "value": "#F7F7F7 "}
+        }, 
+        "support": {
+            "highlit1": {
+                "dark": { "value": "#B21B21"},
+                "base": { "value": "#E62229"},
+                "light": { "value": "#FFE5E6 "}
+            },
+            "highlit2": {
+                "dark": { "value": "#004980"},
+                "base": { "value": "#0066B2"},
+                "light": { "value": "#E5F4FF "}
+            },
+            "highlit3": {
+                "dark": { "value": "#046104"},
+                "base": { "value": "#068206"},
+                "light": { "value": "#E5FFE5"}
+            },
+            "highlit4": {
+                "dark": { "value": "#873200"},
+                "base": { "value": "#BA4A09"},
+                "light": { "value": "#FBEEE7"}
+            },
+            "highlit5": {
+                "dark": { "value": "#BF5B1D"},
+                "base": { "value": "#F3823D"},
+                "light": { "value": "#FFF3EB"}
+            },
+            "highlit6": {
+                "dark": { "value": "#CC1F25"},
+                "base": { "value": "#F03C42"},
+                "light": { "value": "#FFE5E6"}
+            },
+            "highlit7": {
+                "dark": { "value": "#BA005D"},
+                "base": { "value": "#F7258E"},
+                "light": { "value": "#FDE3F0"}
+            },
+            "highlit8": {
+                "dark": { "value": "#420099"},
+                "base": { "value": "#6622C0"},
+                "light": { "value": "#EEE6F8"}
+            },
+            "highlit9": {
+                "dark": { "value": "#006A80"},
+                "base": { "value": "#1FAFCC"},
+                "light": { "value": "#E1F7FC"}
+            },
+            "highlit10": {
+                "dark": { "value": "#007367"},
+                "base": { "value": "#1DBFAF"},
+                "light": { "value": "#DDF4F2"}
+            }
+        }
+    }
+}

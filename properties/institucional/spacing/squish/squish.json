@@ -1,0 +1,10 @@
+{
+    "spacing": {
+        "squish": {
+            "quarck":   { "value": "4px 8px" },
+            "nano":     { "value": "8px 16px" },
+            "xs":       { "value": "16px 24px" },
+            "sm":       { "value": "15px 32px" }
+        }
+    }
+}

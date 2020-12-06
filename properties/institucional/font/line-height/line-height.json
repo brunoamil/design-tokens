@@ -1,0 +1,10 @@
+{
+    "font": {
+        "line-height": {
+            "super-distant": { "value": "200%" },
+            "distant": { "value": "160%" },
+            "medium": { "value": "130%" },
+            "tight": { "value": "100% " }
+        }
+    }
+}

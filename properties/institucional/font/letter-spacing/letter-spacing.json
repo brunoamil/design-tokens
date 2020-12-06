@@ -1,0 +1,10 @@
+{
+    "font": {
+        "letter-spacing": {
+            "super-distant": { "value": "1. 5px" },
+            "distant": { "value": "0.5px" },
+            "medium": { "value": "0px" },
+            "tight": { "value": "-1.5px " }
+        }
+    }
+}

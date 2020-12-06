@@ -1,0 +1,10 @@
+{
+    "shadow": {
+        "level": {
+            "near":          { "value": "16px 0px 4px" },
+            "medium":        { "value": "24px 0px 8px" },
+            "distant":       { "value": "32px 0 16px" },
+            "super-distant": { "value": "48px 0px 16px" }
+        }
+    }
+}

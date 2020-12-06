@@ -1,0 +1,10 @@
+{
+    "font": {
+        "weight": {
+            "regular":  { "value": "regular" },
+            "medium":   { "value": "medium" },
+            "semibold": { "value": "semibold" },
+            "bold":     { "value": "bold" }
+        }
+    }
+}
